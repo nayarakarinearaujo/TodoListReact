@@ -5,8 +5,8 @@ body {
   color: #333;
   background-image: url("../src/img/todoListt.jpg");
   background-position: center;
-  
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .app {
