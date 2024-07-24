@@ -18,6 +18,10 @@ Esta é uma aplicação web de lista de tarefas desenvolvida com React, utilizan
 - React
 - CSS
 
+## Acessar o Projeto
+
+Você pode acessar a aplicação publicada no GitHub Pages [aqui](https://nayarakarinearaujo.github.io/TodoListReact/).
+
 ## Imagem do Projeto
 
 ![Lista de Tarefas](/src/img/todoList-imag.png)
